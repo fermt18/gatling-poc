@@ -9,9 +9,9 @@ Run bound to test phase
 mvn gatling:test
 ```
 
-Run bound to integration test phase
+or just
 ```
-mvn gatling:integration-test
+mvn verify
 ```
 
 Reports found at \target\gatling
